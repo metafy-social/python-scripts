@@ -25,7 +25,7 @@
 
 **See full details and guidelines on**
   * [Hacktober cheasheat](https://github.com/metafy-social/daily-python-scripts/blob/master/HACKTOBERFEST.md) 
-  * [Official website](https://hacktoberfest.digitalocean.com/resources)
+  * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
 <h1 align=center> How to Contribute 🤔 </h1>
