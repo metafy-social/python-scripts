@@ -37,6 +37,12 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+## Code Standards
+- Every addressed issue solution must be within its own folder.
+- Every folder must contain a README.md file with the problem statement and guides to run your code.
+- Put requirements.txt file in the folder if the solution requires any external libraries.
+- The code must be written in Python 3.
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
