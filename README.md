@@ -21,41 +21,12 @@
 * Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://pyarmy.com/tag/python/)** for some basic guides to enhance Python language)
 * That's all you need 😋
 
-## Hacktoberfest 2021 Update
-
-- Scripts so far - `229`
+## Hacktoberfest 2022 Update
 
 **See full details and guidelines on**
   * [Hacktober cheasheat](https://github.com/metafy-social/daily-python-scripts/blob/main/HACKTOBERFEST.md) 
   * [Official website](https://hacktoberfest.digitalocean.com/resources)
 
-
-## Updates 2020:
-1. **Thanks for all contributors my panda stopped cycling now 🛴** 
-2. **Cheers to all, our panda removed exercise from daily schedule 🤸‍♂️**
-3. **Moving forward we achieve our next goal, now our panda doesn't play any outdoor game anymore  🏌️‍♂️**
-4. **Goals of 2020 completed, Panda now hired a maid to clean his house :)**
-
-## Updates 2021
-
-And it's okay if you're not aware of process. Kindly raise query by creating pull request (In query template). Here is the link for that how to create a pull request in other's Repo
-
-[How to create pull request](https://opensource.com/article/19/7/create-pull-request-github)
-
-### These are my Lazy Panda Goals
-
-* Goal 25 - Panda stopped Cycling
-* Goal 50 - Panda stopped doing Exercise
-* Goal 75 - Panda stopped Playing outdoor games
-* Goal 100 - Panda hired someone for cleaning house
-
-* Goal 125 - Panda now have own vehicle to travel 
-* Goal 150 - Panda have enough support now, so he started eating food outside
-* Goal 175 - On the way, now Panda decide to bathe alternatively 😂 
-* Goal 200 - Moving ahead, Panda is now using online ecom platform to buy things
-* Goal 225 - Panda now lazy enough to order the food instead of going outside
-
-**Leave a star => Contribution in arranging Food for panda 😴**
 
 <h1 align=center> How to Contribute 🤔 </h1>
 
@@ -68,22 +39,3 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
-
-### How to check flake8 linting
-
-
-* Option 1: Set up locally, Download flake8 linter and check (as shown in figure below)
-![carbon (1)](https://user-images.githubusercontent.com/42181691/135052274-49d6f2be-04c0-4bf7-9c25-b734b8db6f3c.png)
-* Option 2: Go to [PEP8 online](http://pep8online.com/) , paste your code and check the format it correctly
-* 
-**It's better to go with option 2 always**
-
-**Typo fixed/ minor change in docs not marked as contribution. If you're not aware of process kindly raise a query in formal manner :)**
-
-<h1 align=center> Wonderful Contributors ✨ </h1>
-
-Thanks goes to these wonderful people 😊
-
-<a href="https://github.com/metafy-social/daily-python-scripts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=metafy-social/daily-python-scripts" />
-</a>
