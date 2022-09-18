@@ -23,9 +23,10 @@ Examples of unacceptable behavior by participants include:
 ## Code Standards
 - Every addressed issue solution must be within its own folder.
 - Every folder must contain a README.md file with the problem statement and guides to run your code.
+- Put requirements.txt file in the folder if the solution requires any external libraries.
+- The code must be written in Python 3.
 - Commit messages must follow the [Commit Message Guidelines](https://github.com/metafy-social/.github/blob/main/profile/COMMIT-MESSAGE-GUIDELINES.md).
-- The code must be written in solidity 8.
-  
+
 ## Our Responsibilities
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
