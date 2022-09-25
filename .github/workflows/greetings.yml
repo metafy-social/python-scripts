@@ -28,7 +28,6 @@ jobs:
           pr-message: |
             Thank you for opening your first pull request in our repository, one of our maintainers will get in touch with you soon.
 
-            *DO NOT FORGET TO ADD METAMASK WALLET ADDRESS IN THE AUTH FORM*
             We at Metafy have some special rewards and swags for the top contributors in general repos and every contributor in web3 repos
             For being eligible for that, please authenticate yourself using this link:
             https://hacktoberfest.auth.metafy.social 
