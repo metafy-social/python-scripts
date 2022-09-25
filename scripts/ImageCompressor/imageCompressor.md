@@ -1,4 +1,5 @@
 **Image Compression using PIL Python libraray**
+
 It is CLI based program used to compress the images using PIL library.
 
 Fixes #3
