@@ -4,8 +4,8 @@ import argparse
 
 def compressImage(filename):
     img = Image.open(filename)
-    myHeight, myWidth = img.size
-    img = img.resize((myHeight,myWidth), Image.ANTIALIAS)
+    Height, Width = img.size
+    img = img.resize((Height,Width), Image.ANTIALIAS)
     img.save("compressed-"+filename)
 
 if __name__ == "__main__":
