@@ -5,6 +5,7 @@ It is CLI based program used to compress the images using PIL library.
 Fixes #3
 
 **Built With**
+
 *Python (PIL Library)*
 
 **Prerequisites**
