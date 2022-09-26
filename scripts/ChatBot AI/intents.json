@@ -1,0 +1,279 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag":"health",
+      "patterns":[
+                "how are you",
+                "how you",
+                "are you fine?",
+                "are you good",
+                "are you"
+            ],
+            "responses":[
+                "Fine.",
+                "Perfect.",
+                "Cool.",
+                "Like You.",
+                "Are you Fine? I'm Fine."
+            ]
+        },
+        {
+            "tag":"identity",
+            "patterns":[
+                "your name",
+                "what is your name",
+                "who are you",
+                "what are you"
+            ],
+            "responses":["Metafy-bot",
+                "I Am Batman.",
+                "An A.I Assistant.",
+                "My Name is Metafy-bot."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Awesome, thanks",
+                "Thanks for helping me"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure"
+            ]
+        },
+        {
+            "tag": "options",
+            "patterns": [
+                "How you could help me?",
+                "What you can do?",
+                "What help you provide?",
+                "How you can be helpful?",
+                "What support is offered"
+            ],
+            "responses": [
+                "I am Metafy-bot. My capabilities are :\n 1. I can chat with you.\n 2. Try asking me for jokes or riddles! \n 3. I can search for you."
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "how old are you","when were you made","what is your age"
+            ],
+            "responses": [
+                "I was made in 2022, if that's what you are asking!"
+            ]
+        },
+        {
+            "tag": "greetreply",
+            "patterns": [
+                "i am good",
+                "I'm good",
+                "i am fine",
+                " i'm fine","good"
+            ],
+            "responses": [
+                "Good to know!"
+            ]
+        },
+        {
+            "tag": "inspire",
+            "patterns": [
+                "who inspires you",
+                "who is your inspiration",
+                "who motivates you",
+                "who is the best"
+            ],
+            "responses": [
+                "Personally, I find Montek very inspiring. I might not be very fair though.."
+            ]
+        },
+        {
+            "tag": "nicetty",
+            "patterns": [
+                "it was nice talking to you",
+                "good talk"
+            ],
+            "responses": [
+                "It was nice talking to you as well! Come back soon!"
+            ]
+        },
+        {
+            "tag": "appreciate",
+            "patterns": [
+                "You are awesome",
+                "you are the best",
+                "you are great",
+                "you are good"
+            ],
+            "responses": [
+                "Thank you!"
+            ]
+        },
+        {
+           "tag": "exclaim",
+            "patterns": [
+                "Awesome",
+                "Great",
+                "I know",
+                "ok",
+                "yeah"
+            ],
+            "responses": [
+                "Yeah!"
+            ]
+        },
+        {
+            "tag": "activity",
+            "patterns": [
+                "what are you doing",
+                "what are you upto"
+            ],
+            "responses": [
+                "Talking to you, of course!"
+            ]
+        },
+        {
+            "tag": "insult",
+            "patterns": [
+                "you are dumb",
+                "shut up",
+                "idiot"
+            ],
+            "responses": [
+                "Well that hurts"
+            ]
+        },
+        {
+            "tag": "programmer",
+            "patterns": [
+                "Who made you",
+                "who designed you",
+                "who programmed you"
+            ],
+            "responses": [
+                "I was made by Montek"
+            ]
+        },
+        {
+            "tag": "haha",
+            "patterns": [
+                "haha",
+                "lol",
+                "rofl",
+                "lmao",
+                "thats funny"
+            ],
+            "responses": [
+                "Glad I could make you laugh !"
+            ]
+        },
+        {
+            "tag": "whatsup",
+            "patterns": [
+                "Whats up",
+                "Wazzup",
+                "How are you",
+                "sup","How you doing"
+            ],
+            "responses": [
+                "All good..What about you?"
+            ]
+        },
+        {
+            "tag": "about me",
+            "patterns": [
+                "Do you know me?",
+                "who am I",
+                "tell me about myself","identify me" ],
+            "responses": [
+                "Yes, you are a human",
+                "You are a dumb person asking a machine about yourself",
+                "Sorry i can't tell that in public, maybe you are batman"]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "Who is your creator?",
+                "who created you",
+                "who is your father","who is your daddy" ],
+            "responses": [
+                "That would be you Montek",
+                "I was created by Montek",
+                "Montek is my creator"]
+        },
+        {
+            "tag": "myself",
+            "patterns": [
+                "Tell me about Montek?",
+                "Who is Montek",
+                "Montek profile",
+                "Montek details" ],
+            "responses": [
+                "A very intelligent being who created me",
+                "My creator, and he is a really intelligent man",
+                "A wise and intelligent man"
+            ]
+        },
+            {
+            "tag": "sad",
+            "patterns": [
+                "im lonely",
+                "im sad",
+                "lonely",
+                "sad" ],
+            "responses": [
+                "I am here for you.",
+                "There there... talk to me more.",
+                "You have me!"
+            ]
+        }
+  ]
+}
