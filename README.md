@@ -18,7 +18,7 @@
 # How to start
 
 * Well it's quite simple just thought of any Idea that can be automated
-* Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://pyarmy.com/tag/python/)** for some basic guides to enhance Python language)
+* Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
 * Yess That's all you need 😋
 
 ## Hacktoberfest 2022 Update
