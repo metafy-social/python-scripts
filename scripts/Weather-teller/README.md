@@ -25,11 +25,11 @@ https://user-images.githubusercontent.com/91176055/159108679-8124cd46-7467-465a-
 
 - Clone this repository:
 ```bash
-git clone https://github.com/pranjay-poddar/Dev-Geeks.git
+git clone https://github.com/metafy-social/daily-python-scripts
 ```
 - Change directory:
 ```bash
-cd ML Projects
+cd scripts
 cd Weather-teller
 ```
-- Find main.py and run it.
+- Find weather-det.py and run it.
