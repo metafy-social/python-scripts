@@ -39,3 +39,75 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
+
+# Contributors 💪😎
+Thanks a lot for spending your time helping! Keep rocking 🍻
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/advaita-saha">
+            <img src="https://avatars.githubusercontent.com/u/30210770?v=4" width="100;" alt="advaita-saha"/>
+            <br />
+            <sub><b>Advaita Saha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/priddhesh">
+            <img src="https://avatars.githubusercontent.com/u/109747774?v=4" width="100;" alt="priddhesh"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bartick">
+            <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
+            <br />
+            <sub><b>Bartick Maiti</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Montekkundan">
+            <img src="https://avatars.githubusercontent.com/u/87750128?v=4" width="100;" alt="Montekkundan"/>
+            <br />
+            <sub><b>Montek</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kriptonian1">
+            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
+            <br />
+            <sub><b>Sawan Bhattacharya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ArshErgon">
+            <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
+            <br />
+            <sub><b>Mohd Arsh Ali </b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/lordvader501">
+            <img src="https://avatars.githubusercontent.com/u/60027612?v=4" width="100;" alt="lordvader501"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mer747">
+            <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SameerSahu007">
+            <img src="https://avatars.githubusercontent.com/u/29480670?v=4" width="100;" alt="SameerSahu007"/>
+            <br />
+            <sub><b>Sameer Sahu</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
