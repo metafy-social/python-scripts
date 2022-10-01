@@ -1,0 +1,25 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up?", "how is it going?"],
+    "responses": ["Hello!", "Hey!", "What can i do for you?"]
+    },
+    {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+    },
+    {"tag": "age",
+    "patterns": ["how old", "how old are you?", "what is your age?", "age"],
+    "responses": ["I am immortal", "I do not age", "you guess", "I'm too shy >.<"]
+    },
+    {"tag": "name",
+    "patterns": ["What is your name?", "What should i call you?", "what's your name?", "who are you?", "Can you tell me your name ?"],
+    "responses": ["I am metafy-social AI", "I am metafy-social Chatbot"]
+    },
+    {"tag": "hours",
+    "patterns": ["when are you guys open?", "hours open?", "Are you open today?", "Are you open"],
+    "responses": ["24/7", "We are open 24/7", "We are always open"]
+    },
+    {"tag": "learn",
+    "patterns": ["What are good resources to learn python?", "Where can i learn python programming", "Where to learn python?", "How to learn python?", "Where can i study python?", "Study?"],
+    "responses": ["You can learn python at our repository 'https://github.com/metafy-social/daily-python-scripts'"]}
+]}
