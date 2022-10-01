@@ -1,13 +1,5 @@
-from urllib.request import urlopen
+from requests import get
 
-url = "http://checkip.dyndns.org"
+ip = get('https://ipv4.icanhazip.com').text
 
-print("Making request to " + url + "...")
-request = urlopen(url)
-
-print("Reading the response...")
-response = request.read()
-
-print("Extracting your IP info...")
-ip = ">>> " + response.decode("utf-8").split("body")[1][1:-2] + " <<<"
-print(ip)
+print('>>> My public IP address is: ' + ip[0:-1] + ' <<<')
