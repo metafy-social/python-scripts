@@ -14,7 +14,7 @@ def check():
         if final >= 0.66:
             w.create_rectangle(105, 50, 300, 100,
                                fill="#27cf54", outline="white")
-        elif final > 0.10 and final < 0.40:
+        elif final > 0.10 and final < 0.65:
             w.create_rectangle(105, 50, 300, 100,
                                fill="#f0f007", outline="white")
         elif final <= 0.10:
