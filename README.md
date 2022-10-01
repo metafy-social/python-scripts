@@ -81,18 +81,18 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/kriptonian1">
-            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
-            <br />
-            <sub><b>Sawan Bhattacharya</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/agnxsh">
             <img src="https://avatars.githubusercontent.com/u/80243668?v=4" width="100;" alt="agnxsh"/>
             <br />
             <sub><b>Agnish Ghosh</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/kriptonian1">
+            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
+            <br />
+            <sub><b>Sawan Bhattacharya</b></sub>
         </a>
     </td>
     <td align="center">
@@ -100,6 +100,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
             <br />
             <sub><b>Mohd Arsh Ali </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BassCoder2808">
+            <img src="https://avatars.githubusercontent.com/u/65075935?v=4" width="100;" alt="BassCoder2808"/>
+            <br />
+            <sub><b>Vedant Jolly</b></sub>
         </a>
     </td>
     <td align="center">
@@ -122,15 +129,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SameerSahu007">
             <img src="https://avatars.githubusercontent.com/u/29480670?v=4" width="100;" alt="SameerSahu007"/>
