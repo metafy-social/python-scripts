@@ -1,6 +1,7 @@
 name: 'Add contributors to readme'
 on:
     push:
+        branches: [ master ]
 
 jobs:
     contrib-readme-job:
