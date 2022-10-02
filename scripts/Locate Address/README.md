@@ -4,7 +4,7 @@
 
     One use-case for this is when you want to send login information to users for your website.
 
-    In this article, we're going to see how you can find the location of an IP address using Python.
+    Here, we're going to see how you can find the location of an IP address using Python.
 
 - Get your tools ready
 
@@ -70,30 +70,3 @@ At last, we call the get_location() function and print the output. Our output wi
 - Conclusion                                                                                                                    
   Here we learned how we can interact with web services to get location information for a particular IP address.    
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
