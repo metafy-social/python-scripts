@@ -1,8 +1,8 @@
 ## Computer Stats Checker
 
-It is a python program that shows about user's computer stats. Such as cpu, memory, disk, ip_adress etc.
+It is a python program that shows about user's computer stats. Such as cpu, memory, disk, ip_address etc.
 
-The response of the program is in json fromat and if say yes it will be automatically saved to log.js so it is easier to reach those stats in the future.
+The response of the program is in json format and if say yes it will be automatically saved to log.js so it is easier to reach those stats in the future.
 
 ### Modules Used
 

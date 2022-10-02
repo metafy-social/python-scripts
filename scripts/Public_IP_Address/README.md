@@ -14,4 +14,4 @@ This response is in HTML so it also extracts only useful information from it and
 * Clone the repo 
 * open the `Public IP Address` folder
 * run `python my_public_ip.py`
-* You just recieved your public IP.
+* You just received your public IP.

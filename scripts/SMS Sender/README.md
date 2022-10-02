@@ -18,7 +18,7 @@ To get the API key from Kaleyra follow these steps:
 * In the `developers` tab you will get a option for generating `API KEY`
 * After API key generation please copy those key to `line no. 9,10,11`
 * Click on Billing to make sure your billing details are up-to-date. If they not, follow this link.
-For futhers details of the API please refer to the official documentation https://developers.kaleyra.io/docs/getting-started-with-kaleyra-cloud-apis
+For further details of the API please refer to the official documentation https://developers.kaleyra.io/docs/getting-started-with-kaleyra-cloud-apis
 
 ## Quick Start :-
 ```
