@@ -67,6 +67,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ArshErgon">
+            <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
+            <br />
+            <sub><b>Mohd Arsh Ali </b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Abbhiishek">
             <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
             <br />
@@ -107,13 +114,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/63355322?v=4" width="100;" alt="avyayjain"/>
             <br />
             <sub><b>Avyay Jain</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ArshErgon">
-            <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
-            <br />
-            <sub><b>Mohd Arsh Ali </b></sub>
         </a>
     </td>
     <td align="center">
