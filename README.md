@@ -67,6 +67,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/money8203">
+            <img src="https://avatars.githubusercontent.com/u/89864818?v=4" width="100;" alt="money8203"/>
+            <br />
+            <sub><b>Manish Tyagi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ArshErgon">
             <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
             <br />
@@ -79,22 +86,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Abhishek Kushwaha</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/money8203">
-            <img src="https://avatars.githubusercontent.com/u/89864818?v=4" width="100;" alt="money8203"/>
-            <br />
-            <sub><b>Manish Tyagi</b></sub>
-        </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Montekkundan">
             <img src="https://avatars.githubusercontent.com/u/87750128?v=4" width="100;" alt="Montekkundan"/>
             <br />
             <sub><b>Montek</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/agnxsh">
             <img src="https://avatars.githubusercontent.com/u/80243668?v=4" width="100;" alt="agnxsh"/>
