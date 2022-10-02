@@ -89,6 +89,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Farhan-2222">
+            <img src="https://avatars.githubusercontent.com/u/87274221?v=4" width="100;" alt="Farhan-2222"/>
+            <br />
+            <sub><b>Md Farhan Sajid</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/agnxsh">
             <img src="https://avatars.githubusercontent.com/u/80243668?v=4" width="100;" alt="agnxsh"/>
             <br />
@@ -122,15 +129,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Aswin Shailajan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/noobyysauraj">
             <img src="https://avatars.githubusercontent.com/u/81681419?v=4" width="100;" alt="noobyysauraj"/>
             <br />
             <sub><b>Sauraj</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/srinjoy-26">
             <img src="https://avatars.githubusercontent.com/u/91176055?v=4" width="100;" alt="srinjoy-26"/>
@@ -165,7 +172,8 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SameerSahu007">
             <img src="https://avatars.githubusercontent.com/u/29480670?v=4" width="100;" alt="SameerSahu007"/>
