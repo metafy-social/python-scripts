@@ -60,6 +60,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Abbhiishek">
+            <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
+            <br />
+            <sub><b>Abhishek Kushwaha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bartick">
             <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
             <br />
@@ -71,13 +78,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
             <br />
             <sub><b>Mohd Arsh Ali </b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Abbhiishek">
-            <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
-            <br />
-            <sub><b>Abhishek Kushwaha</b></sub>
         </a>
     </td>
     <td align="center">
