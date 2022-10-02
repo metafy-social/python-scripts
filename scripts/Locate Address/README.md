@@ -32,7 +32,7 @@ Once the library is installed, we're good to go!
    In the above code, we have two functions – get_ip() and get_location().                                                                                        
      Let's discuss each of them separately.
      
-get_ip() function                                                                                                                              
+- get_ip() function                                                                                                                              
 As per the API documentation of ipify, we need to make a GET request on https://api.ipify.org?format=json to get a JSON response that looks like this:
 
       {
@@ -46,7 +46,7 @@ As per the API documentation of ipify, we need to make a GET request on https://
              
              key ip as response["ip"].
 
-get_location() function                                                                                                                 
+- get_location() function                                                                                                                 
 As per the API documentation of ipapi, we need to make a GET request on https://ipapi.co/{ip}/{format}/ to get location information for a particular IP address. {ip} is replaced by the IP address and {format} can be replaced with any of these – json, jsonp, xml, csv, yaml.
 
 This function internally calls the get_ip() function to get the IP address and then makes a GET request on the URL with the IP address. This API returns a JSON response that looks like this:
@@ -67,7 +67,7 @@ At last, we call the get_location() function and print the output. Our output wi
              "country": "India"
       }
       
- Conclusion                                                                                                                    
+- Conclusion                                                                                                                    
   Here we learned how we can interact with web services to get location information for a particular IP address.    
       
       
