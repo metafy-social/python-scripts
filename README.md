@@ -67,6 +67,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Farhan-2222">
+            <img src="https://avatars.githubusercontent.com/u/87274221?v=4" width="100;" alt="Farhan-2222"/>
+            <br />
+            <sub><b>Md Farhan Sajid</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bartick">
             <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
             <br />
@@ -79,27 +86,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Mohd Arsh Ali </b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Montekkundan">
             <img src="https://avatars.githubusercontent.com/u/87750128?v=4" width="100;" alt="Montekkundan"/>
             <br />
             <sub><b>Montek</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/muratonuryildirim">
             <img src="https://avatars.githubusercontent.com/u/77264793?v=4" width="100;" alt="muratonuryildirim"/>
             <br />
             <sub><b>Murat Onur Yildirim</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Farhan-2222">
-            <img src="https://avatars.githubusercontent.com/u/87274221?v=4" width="100;" alt="Farhan-2222"/>
-            <br />
-            <sub><b>Md Farhan Sajid</b></sub>
         </a>
     </td>
     <td align="center">
