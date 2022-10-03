@@ -124,13 +124,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/HVbajoria">
+            <img src="https://avatars.githubusercontent.com/u/62978274?v=4" width="100;" alt="HVbajoria"/>
+            <br />
+            <sub><b>Harshavardhan Bajoria</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/avyayjain">
             <img src="https://avatars.githubusercontent.com/u/63355322?v=4" width="100;" alt="avyayjain"/>
             <br />
             <sub><b>Avyay Jain</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/thegeekyb0y">
             <img src="https://avatars.githubusercontent.com/u/84658112?v=4" width="100;" alt="thegeekyb0y"/>
@@ -165,15 +172,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Sauraj</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/srinjoy-26">
             <img src="https://avatars.githubusercontent.com/u/91176055?v=4" width="100;" alt="srinjoy-26"/>
             <br />
             <sub><b>Srinjoy Pati</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/akashJainAJ11">
             <img src="https://avatars.githubusercontent.com/u/94193834?v=4" width="100;" alt="akashJainAJ11"/>
@@ -208,15 +215,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Nafis Adnan Mondal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lordvader501">
             <img src="https://avatars.githubusercontent.com/u/60027612?v=4" width="100;" alt="lordvader501"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
