@@ -139,6 +139,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SiddheshKukade">
+            <img src="https://avatars.githubusercontent.com/u/65951872?v=4" width="100;" alt="SiddheshKukade"/>
+            <br />
+            <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/aswin2108">
             <img src="https://avatars.githubusercontent.com/u/72661784?v=4" width="100;" alt="aswin2108"/>
             <br />
@@ -165,15 +172,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Heshanthaka</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sarthakroy2002">
             <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
             <br />
             <sub><b>Sarthak Roy</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anjali1102">
             <img src="https://avatars.githubusercontent.com/u/56559378?v=4" width="100;" alt="anjali1102"/>
