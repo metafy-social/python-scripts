@@ -13,4 +13,4 @@ This is a easy-to-use Tkinter GUI application that takes a .docx file or a folde
  - Wait for confirmation
 
  ### Screenshots
- ![Screenshot](/example_screenshot.jpg?raw=true)
+ ![Screenshot](/scripts/word_to_pdf_converter/example_screenshot.jpg?raw=true)
