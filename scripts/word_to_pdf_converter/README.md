@@ -11,3 +11,6 @@ This is a easy-to-use Tkinter GUI application that takes a .docx file or a folde
  - Run the script
  - Select the file/files to be converted
  - Wait for confirmation
+
+ ### Screenshots
+ ![Screenshot](/example_screenshot.jpg?raw=true)
