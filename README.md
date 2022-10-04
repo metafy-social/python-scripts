@@ -89,6 +89,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/HVbajoria">
+            <img src="https://avatars.githubusercontent.com/u/62978274?v=4" width="100;" alt="HVbajoria"/>
+            <br />
+            <sub><b>Harshavardhan Bajoria</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ArshErgon">
             <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
             <br />
@@ -122,20 +129,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Sawan Bhattacharya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Prajwol-Shrestha">
             <img src="https://avatars.githubusercontent.com/u/70046321?v=4" width="100;" alt="Prajwol-Shrestha"/>
             <br />
             <sub><b>Prajwol Shrestha</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/HVbajoria">
-            <img src="https://avatars.githubusercontent.com/u/62978274?v=4" width="100;" alt="HVbajoria"/>
-            <br />
-            <sub><b>Harshavardhan Bajoria</b></sub>
         </a>
     </td>
     <td align="center">
