@@ -25,6 +25,7 @@ jobs:
           PRNUM: ${{ github.event.pull_request.number }}
         run: |
           gh pr edit $PRNUM --add-label "PR:Ready-to-Review"
+          gh pr edit $PRNUM --add-label "hacktoberfest-accepted"
           gh pr edit $PRNUM --remove-label "PR:No-Issue"
           
       - name: PR has no valid Issue
