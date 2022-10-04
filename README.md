@@ -232,6 +232,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/yashbrid03">
+            <img src="https://avatars.githubusercontent.com/u/65955929?v=4" width="100;" alt="yashbrid03"/>
+            <br />
+            <sub><b>Yash Nilesh Brid</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
             <br />
