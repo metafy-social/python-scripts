@@ -203,20 +203,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/accodes21">
+            <img src="https://avatars.githubusercontent.com/u/101868279?v=4" width="100;" alt="accodes21"/>
+            <br />
+            <sub><b>Aarya Chopkar</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/akashJainAJ11">
             <img src="https://avatars.githubusercontent.com/u/94193834?v=4" width="100;" alt="akashJainAJ11"/>
             <br />
             <sub><b>Akash Jain</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/donheshanthaka">
             <img src="https://avatars.githubusercontent.com/u/61963664?v=4" width="100;" alt="donheshanthaka"/>
             <br />
             <sub><b>Heshanthaka</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sarthakroy2002">
             <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
@@ -251,15 +258,22 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yashbrid03">
             <img src="https://avatars.githubusercontent.com/u/65955929?v=4" width="100;" alt="yashbrid03"/>
             <br />
             <sub><b>Yash Nilesh Brid</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mclmza">
+            <img src="https://avatars.githubusercontent.com/u/7353871?v=4" width="100;" alt="mclmza"/>
+            <br />
+            <sub><b>Michele Mazza</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
