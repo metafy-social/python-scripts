@@ -259,5 +259,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <sub><b>Sameer Sahu</b></sub>
         </a>
     </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/NishantPacharne">
+            <img src="https://avatars.githubusercontent.com/u/71060551?v=4" width="100;" alt="NishantPacharne"/>
+            <br />
+            <sub><b>Nishant Pacharne</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
