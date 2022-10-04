@@ -67,17 +67,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Abbhiishek">
-            <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
-            <br />
-            <sub><b>Abhishek Kushwaha</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/muratonuryildirim">
             <img src="https://avatars.githubusercontent.com/u/77264793?v=4" width="100;" alt="muratonuryildirim"/>
             <br />
             <sub><b>Murat Onur Yildirim</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Abbhiishek">
+            <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
+            <br />
+            <sub><b>Abhishek Kushwaha</b></sub>
         </a>
     </td>
     <td align="center">
