@@ -7,10 +7,15 @@ Only have to enter few things to get started and the rest is magic.
 What all do you have to enter?
 
 1.) Your file Path - Where your initial audio file(mp3) is located.
+
 2.) Your export Path - Where you want to save your resultant sliced audio file to be saved.
+
 3.) Start Minute - From what minute into the audio you want to slice from
+
 4.) Start Second - From what second after the start minute you want to slice from 
+
 5.) End Minute - Till what minute you want the final audio to be.
+
 6.) End Second - Till what second of the End minute you want to final audio to be.
 
 # Requirements
