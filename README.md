@@ -1,6 +1,6 @@
 <h1 align=center> Daily Python Scripts </h1>
 
-**Do you know anything that can help all to easy our tough life than tell that secret to us and help us to become lazy like Panda**
+**A compilation of python scripts that can help us all to ease our tough lives and help us to become lazy like Pandas.**
 
 <p align="center">
   <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
@@ -17,9 +17,9 @@
 
 # How to start
 
-* Well it's quite simple just thought of any Idea that can be automated
+* Firstly, you must think of any idea that can be automated
 * Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
-* Yess That's all you need 😋
+* That's all you need! 😋
 
 ## Hacktoberfest 2022 Update
 
@@ -28,9 +28,9 @@
   * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
-<h1 align=center> How to Contribute 🤔 </h1>
+<h1 align=center> How to Contribute: 🤔 </h1>
 
-You can contribute by adding new scripts, improving current scripts or Documentation. Here are some Instructions before making a Pull Request
+You can contribute by adding new scripts, improving current scripts or Documentation. Here are some Instructions before making a Pull Request:
 
 ## Here are the steps to Make contribute 👣
 
