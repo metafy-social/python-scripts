@@ -132,6 +132,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/AFZL210">
+            <img src="https://avatars.githubusercontent.com/u/79896602?v=4" width="100;" alt="AFZL210"/>
+            <br />
+            <sub><b>Mohd Afzal Khan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/kriptonian1">
             <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
             <br />
@@ -143,13 +150,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/70046321?v=4" width="100;" alt="Prajwol-Shrestha"/>
             <br />
             <sub><b>Prajwol Shrestha</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AFZL210">
-            <img src="https://avatars.githubusercontent.com/u/79896602?v=4" width="100;" alt="AFZL210"/>
-            <br />
-            <sub><b>Mohd Afzal Khan</b></sub>
         </a>
     </td>
     <td align="center">
