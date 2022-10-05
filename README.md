@@ -182,13 +182,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/NishantPacharne">
-            <img src="https://avatars.githubusercontent.com/u/71060551?v=4" width="100;" alt="NishantPacharne"/>
-            <br />
-            <sub><b>Nishant Pacharne</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/thegeekyb0y">
             <img src="https://avatars.githubusercontent.com/u/84658112?v=4" width="100;" alt="thegeekyb0y"/>
             <br />
@@ -215,15 +208,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/aswin2108">
             <img src="https://avatars.githubusercontent.com/u/72661784?v=4" width="100;" alt="aswin2108"/>
             <br />
             <sub><b>Aswin Shailajan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/noobyysauraj">
             <img src="https://avatars.githubusercontent.com/u/81681419?v=4" width="100;" alt="noobyysauraj"/>
@@ -258,15 +251,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Heshanthaka</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Mysterious-Owl">
             <img src="https://avatars.githubusercontent.com/u/66870959?v=4" width="100;" alt="Mysterious-Owl"/>
             <br />
             <sub><b>Mysterious-Owl</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sarthakroy2002">
             <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
@@ -301,15 +294,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Yash Nilesh Brid</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mclmza">
             <img src="https://avatars.githubusercontent.com/u/7353871?v=4" width="100;" alt="mclmza"/>
             <br />
             <sub><b>Michele Mazza</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
