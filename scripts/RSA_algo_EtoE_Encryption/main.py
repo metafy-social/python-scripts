@@ -1,6 +1,5 @@
 import rsa
 
-
 ##this function generates the keys
 def generate_keys():
     (pubKey, privKey) = rsa.newkeys(1024)
@@ -57,10 +56,10 @@ signature = sign_sha1(message, privKey)
 ##It then decrypts the message.
 plaintext = decrypt(ciphertext, privKey)
 
-##the cipher of the message is displayed
-print(f'Cipher text: {ciphertext}')
 ##the sgnature of the message is displayed
 print(f'Signature: {signature}')
+##the cipher of the message is displayed
+print(f'Cipher text: {ciphertext}')
 
 ##the decrypted message is displayed
 if plaintext:
@@ -69,6 +68,6 @@ else:
     print('Could not decrypt the message.')
 
 if verify_sha1(plaintext, signature, pubKey):
-    print('Signature verified!')
+    print('great the signature is verified')
 else:
     print('Could not verify the message signature.')
