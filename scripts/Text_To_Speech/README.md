@@ -4,6 +4,5 @@ This is a simple script that lets you convert text to speech and store it in .mp
 #### Usage
 
 * Clone the repo 
-* download the requirements
-* change the input in script.py 
-* run python script.py 
+* download the requirements using `pip install -i requirements.txt`
+* run `python script.py`
