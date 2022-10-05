@@ -1,0 +1,38 @@
+name: PR has a valid Issue?
+
+on:
+  pull_request_target:
+    types: [ edited, synchronize, opened, reopened ]
+
+jobs:
+  checker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Issue Validator
+        uses: HarshCasper/validate-issues-over-pull-requests@v0.1.1
+        id: validator
+        with:
+          prbody: ${{ github.event.pull_request.body }}
+          prurl: ${{ github.event.pull_request.url }}
+          
+      - name: PR has a valid Issue
+        if: ${{ steps.validator.outputs.valid == 1 }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PRNUM: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr edit $PRNUM --add-label "PR:Ready-to-Review"
+          gh pr edit $PRNUM --add-label "hacktoberfest-accepted"
+          gh pr edit $PRNUM --remove-label "PR:No-Issue"
+          
+      - name: PR has no valid Issue
+        if: ${{ steps.validator.outputs.valid == 0 }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PRNUM: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr comment $PRNUM --body "PR is not linked to any issue, please make the corresponding changes in the body."
+          gh pr edit $PRNUM --add-label "PR:No-Issue"
