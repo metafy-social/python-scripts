@@ -17,16 +17,16 @@
 
 # How to start
 
-* Well it's quite simple just thought of any Idea that can be automated
-* Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
-* Yess That's all you need 😋
+- Well it's quite simple just thought of any Idea that can be automated
+- Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
+- Yess That's all you need 😋
 
 ## Hacktoberfest 2022 Update
 
 **See full details and guidelines on**
-  * [Hacktober cheasheat](https://github.com/metafy-social/daily-python-scripts/blob/master/HACKTOBERFEST.md) 
-  * [Official website](https://hacktoberfest.digitalocean.com/)
 
+- [Hacktober cheasheat](https://github.com/metafy-social/daily-python-scripts/blob/master/HACKTOBERFEST.md)
+- [Official website](https://hacktoberfest.digitalocean.com/)
 
 <h1 align=center> How to Contribute 🤔 </h1>
 
@@ -41,7 +41,9 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
 
 # Contributors 💪😎
+
 Thanks a lot for spending your time helping! Keep rocking 🍻
+
 <!-- readme: contributors -start -->
 <table>
 <tr>
@@ -345,5 +347,14 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <sub><b>Sameer Sahu</b></sub>
         </a>
     </td></tr>
+    <tr>
+        <td align="center">
+        <a href="https://github.com/yunghog">
+            <img src="https://avatars.githubusercontent.com/u/41548444?v=4" width="100;" alt="yunghog"/>
+            <br />
+            <sub><b>YUNGH OG</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
 <!-- readme: contributors -end -->
