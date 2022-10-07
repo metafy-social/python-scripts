@@ -4,7 +4,7 @@
 
 # What is HacktoberFest?
 
-Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party .Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
+Hacktoberfest is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party. Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
 # More details
 
@@ -12,7 +12,7 @@ Hacktoberfest is open to everyone in our global community. Whether you’re a se
 
 Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the 'hacktoberfest' topic to know if a repository/project is participating in Hacktoberfest. Pull requests must be approved by a maintainer of the repository/project to count.
 
-You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+You can register anytime between September 26 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 # Rules for participation
 
@@ -21,7 +21,7 @@ You can sign up anytime between October 1 and October 31. Just be sure to sign u
 * If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 * If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 * To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-* This year, the first 55,000 participants can earn a T-shirt.
+* This year, the first 40,000 participants can earn a tree planted in their name, or the Hacktoberfest 2022 T-shirt.
 
 # Quality Guidelines
 
