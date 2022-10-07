@@ -60,17 +60,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/PGautam27">
-            <img src="https://avatars.githubusercontent.com/u/92343715?v=4" width="100;" alt="PGautam27"/>
-            <br />
-            <sub><b>P Gautam</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bartick">
             <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
             <br />
             <sub><b>Bartick Maiti</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PGautam27">
+            <img src="https://avatars.githubusercontent.com/u/92343715?v=4" width="100;" alt="PGautam27"/>
+            <br />
+            <sub><b>P Gautam</b></sub>
         </a>
     </td>
     <td align="center">
@@ -196,13 +196,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/srinjoy-26">
-            <img src="https://avatars.githubusercontent.com/u/91176055?v=4" width="100;" alt="srinjoy-26"/>
-            <br />
-            <sub><b>Srinjoy Pati</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/NishantPacharne">
             <img src="https://avatars.githubusercontent.com/u/71060551?v=4" width="100;" alt="NishantPacharne"/>
             <br />
@@ -215,15 +208,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Aditya Tiwari</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BassCoder2808">
             <img src="https://avatars.githubusercontent.com/u/65075935?v=4" width="100;" alt="BassCoder2808"/>
             <br />
             <sub><b>Vedant Jolly</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dishant10">
             <img src="https://avatars.githubusercontent.com/u/84343829?v=4" width="100;" alt="Dishant10"/>
@@ -258,15 +251,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/noobyysauraj">
             <img src="https://avatars.githubusercontent.com/u/81681419?v=4" width="100;" alt="noobyysauraj"/>
             <br />
             <sub><b>Sauraj</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/accodes21">
             <img src="https://avatars.githubusercontent.com/u/101868279?v=4" width="100;" alt="accodes21"/>
@@ -301,13 +294,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Anjali Chauhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/artemis-i-guess">
             <img src="https://avatars.githubusercontent.com/u/65388018?v=4" width="100;" alt="artemis-i-guess"/>
             <br />
             <sub><b>Nafis Adnan Mondal</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/biv720">
+            <img src="https://avatars.githubusercontent.com/u/76109778?v=4" width="100;" alt="biv720"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
