@@ -1,0 +1,1 @@
+googlesearch-python==1.1.0
