@@ -361,6 +361,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Gokul-Ks">
+            <img src="https://avatars.githubusercontent.com/u/73174047?v=4" width="100;" alt="Gokul-Ks"/>
+            <br />
+            <sub><b>Gokul_Zuzu</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Manice18">
             <img src="https://avatars.githubusercontent.com/u/91601706?v=4" width="100;" alt="Manice18"/>
             <br />
@@ -380,15 +387,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Raj Saha </b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/riyajaiswal25">
             <img src="https://avatars.githubusercontent.com/u/84279900?v=4" width="100;" alt="riyajaiswal25"/>
             <br />
             <sub><b>Riya Jaiswal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sarthakroy2002">
             <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
@@ -423,15 +430,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Nafis Adnan Mondal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/biv720">
             <img src="https://avatars.githubusercontent.com/u/76109778?v=4" width="100;" alt="biv720"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/devtayade">
             <img src="https://avatars.githubusercontent.com/u/84332795?v=4" width="100;" alt="devtayade"/>
@@ -466,15 +473,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Abel Ayalew</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/neocollege">
             <img src="https://avatars.githubusercontent.com/u/86466839?v=4" width="100;" alt="neocollege"/>
             <br />
             <sub><b>Prathamesh Nayak</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/smit-sms">
             <img src="https://avatars.githubusercontent.com/u/52400400?v=4" width="100;" alt="smit-sms"/>
