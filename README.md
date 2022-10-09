@@ -196,6 +196,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Dishant10">
+            <img src="https://avatars.githubusercontent.com/u/84343829?v=4" width="100;" alt="Dishant10"/>
+            <br />
+            <sub><b>Dishant Nagpal</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Kunalp02">
             <img src="https://avatars.githubusercontent.com/u/95534553?v=4" width="100;" alt="Kunalp02"/>
             <br />
@@ -208,15 +215,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yunghog">
             <img src="https://avatars.githubusercontent.com/u/41548444?v=4" width="100;" alt="yunghog"/>
             <br />
             <sub><b>YUNGH OG</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/avyayjain">
             <img src="https://avatars.githubusercontent.com/u/63355322?v=4" width="100;" alt="avyayjain"/>
@@ -251,15 +258,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Shradha</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/NishantPacharne">
             <img src="https://avatars.githubusercontent.com/u/71060551?v=4" width="100;" alt="NishantPacharne"/>
             <br />
             <sub><b>Nishant Pacharne</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/thegeekyb0y">
             <img src="https://avatars.githubusercontent.com/u/84658112?v=4" width="100;" alt="thegeekyb0y"/>
@@ -272,13 +279,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/65075935?v=4" width="100;" alt="BassCoder2808"/>
             <br />
             <sub><b>Vedant Jolly</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Dishant10">
-            <img src="https://avatars.githubusercontent.com/u/84343829?v=4" width="100;" alt="Dishant10"/>
-            <br />
-            <sub><b>Dishant Nagpal</b></sub>
         </a>
     </td>
     <td align="center">
