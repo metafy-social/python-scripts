@@ -1,0 +1,17 @@
+## {{request.user.userrname}} tells the username of the currently logged-in user. If the user is logged in, 
+it will give its username; if it’s not logged in, it will print nothing. The chat page looks like this now, 
+because there is no current logged-in user and {{request.user.username}} prints out nothing.  
+
+<!DOCTYPE html>
+<html>
+<body>
+	<form method ="post">
+		{% csrf_token %}
+		{{form.as_p}}
+		<br>
+		<button type = "submit">Login</button>
+	</form>
+</body>
+</html>
+
+
