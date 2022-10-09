@@ -124,25 +124,25 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/raihankhan-rk">
+            <img src="https://avatars.githubusercontent.com/u/34377027?v=4" width="100;" alt="raihankhan-rk"/>
+            <br />
+            <sub><b>Raihan Khan</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ArshErgon">
             <img src="https://avatars.githubusercontent.com/u/40994679?v=4" width="100;" alt="ArshErgon"/>
             <br />
             <sub><b>Mohd Arsh Ali </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Montekkundan">
             <img src="https://avatars.githubusercontent.com/u/87750128?v=4" width="100;" alt="Montekkundan"/>
             <br />
             <sub><b>Montek</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/raihankhan-rk">
-            <img src="https://avatars.githubusercontent.com/u/34377027?v=4" width="100;" alt="raihankhan-rk"/>
-            <br />
-            <sub><b>Raihan Khan</b></sub>
         </a>
     </td>
     <td align="center">
