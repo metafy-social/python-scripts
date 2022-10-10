@@ -1,3 +1,4 @@
+import time
 import requests # Will help us to get out url directed
 from bs4 import BeautifulSoup # Will help us to scrap us the data
 
