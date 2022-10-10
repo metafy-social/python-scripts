@@ -347,6 +347,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/ambushneupane">
+            <img src="https://avatars.githubusercontent.com/u/56769633?v=4" width="100;" alt="ambushneupane"/>
+            <br />
+            <sub><b>Ambush</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/aswin2108">
             <img src="https://avatars.githubusercontent.com/u/72661784?v=4" width="100;" alt="aswin2108"/>
             <br />
@@ -380,15 +387,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Aarya Chopkar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/aimanaisha">
             <img src="https://avatars.githubusercontent.com/u/94171436?v=4" width="100;" alt="aimanaisha"/>
             <br />
             <sub><b>Aiman Aisha</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/akashJainAJ11">
             <img src="https://avatars.githubusercontent.com/u/94193834?v=4" width="100;" alt="akashJainAJ11"/>
@@ -423,15 +430,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Gokul_Zuzu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Manice18">
             <img src="https://avatars.githubusercontent.com/u/91601706?v=4" width="100;" alt="Manice18"/>
             <br />
             <sub><b>Manice18</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MayuriKolhe-2003">
             <img src="https://avatars.githubusercontent.com/u/77161474?v=4" width="100;" alt="MayuriKolhe-2003"/>
@@ -466,15 +473,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Ramon Saraiva</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/riyajaiswal25">
             <img src="https://avatars.githubusercontent.com/u/84279900?v=4" width="100;" alt="riyajaiswal25"/>
             <br />
             <sub><b>Riya Jaiswal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sarthakroy2002">
             <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
@@ -509,15 +516,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Arpit Bhardwaj</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/artemis-i-guess">
             <img src="https://avatars.githubusercontent.com/u/65388018?v=4" width="100;" alt="artemis-i-guess"/>
             <br />
             <sub><b>Nafis Adnan Mondal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/biv720">
             <img src="https://avatars.githubusercontent.com/u/76109778?v=4" width="100;" alt="biv720"/>
@@ -552,15 +559,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Michele Mazza</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/nabroleonx">
             <img src="https://avatars.githubusercontent.com/u/84567489?v=4" width="100;" alt="nabroleonx"/>
