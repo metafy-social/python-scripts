@@ -12,7 +12,7 @@ A Python3 script to send your desired payload to PagerDuty and create an inciden
 
 ### Steps
 
- * Make sure you have create a serive in your PagerDuty account. ![Refer here](https://support.pagerduty.com/docs/services-and-integrations) if not done already
+ * Make sure you have create a serive in your PagerDuty account. [Refer here](https://support.pagerduty.com/docs/services-and-integrations) if not done already
  * Copy the Integration Key from the settings of the service as shown below and paste it in your env file
  <img width="1344" alt="Screenshot 2022-10-11 at 12 09 33 AM" src="https://user-images.githubusercontent.com/10003129/194933099-13dd03b8-c139-4366-bf18-272fd2ae7392.png">
  
