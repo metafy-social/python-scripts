@@ -2,9 +2,14 @@
 
 import json
 import requests
+from pathlib import Path
+from dotenv import load_dotenv
+env_path=Path('.')/'.env'
+load_dotenv(dotenv_path=env_path)
+
 
 #This Key should be available in .env file
-ROUTING_KEY = "" # ENTER EVENTS V2 API INTEGRATION KEY HERE 
+ROUTING_KEY = os.environ['ROUTING_KEY'] # ENTER EVENTS V2 API INTEGRATION KEY HERE 
 
 
 # This function takes the payload info from the user and can be put in the right format
