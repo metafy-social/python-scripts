@@ -1,4 +1,4 @@
-###BMI calculator with PYTHON
+BMI calculator with PYTHON
 
 #Steps :
-*Run - python bmi.py
+Run - python bmi.py
