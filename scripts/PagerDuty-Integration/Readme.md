@@ -19,12 +19,12 @@ A Python3 script to send your desired payload to PagerDuty and create an inciden
  * Import the file as a module
  * Send your desired payload to the module
  * My example of payload
-    '''
+    ```
     payload= {
 	   "resource_id" : resource_id,
     "system_data":"This a resource in the development system of XYZ corp.",
     "tags":"'HA System','Non-critical-system','SpringBoot-App'"
-    '''
+    ```
  * Finalize your payload accoring the parameters(severity,components etc .)
  * Voila! If everything works fine you will recieve a Page 
  
