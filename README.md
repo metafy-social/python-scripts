@@ -74,17 +74,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/agnxsh">
-            <img src="https://avatars.githubusercontent.com/u/80243668?v=4" width="100;" alt="agnxsh"/>
-            <br />
-            <sub><b>Agnish Ghosh</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/muratonuryildirim">
             <img src="https://avatars.githubusercontent.com/u/77264793?v=4" width="100;" alt="muratonuryildirim"/>
             <br />
             <sub><b>Murat Onur Yildirim</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/agnxsh">
+            <img src="https://avatars.githubusercontent.com/u/80243668?v=4" width="100;" alt="agnxsh"/>
+            <br />
+            <sub><b>Agnish Ghosh</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -454,6 +454,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ramonsaraiva">
+            <img src="https://avatars.githubusercontent.com/u/5559120?v=4" width="100;" alt="ramonsaraiva"/>
+            <br />
+            <sub><b>Ramon Saraiva</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/riyajaiswal25">
             <img src="https://avatars.githubusercontent.com/u/84279900?v=4" width="100;" alt="riyajaiswal25"/>
             <br />
@@ -461,27 +468,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/sarthakroy2002">
-            <img src="https://avatars.githubusercontent.com/u/47187468?v=4" width="100;" alt="sarthakroy2002"/>
-            <br />
-            <sub><b>Sarthak Roy</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Shreejan-35">
-            <img src="https://avatars.githubusercontent.com/u/93109967?v=4" width="100;" alt="Shreejan-35"/>
-            <br />
-            <sub><b>Shreejan Dolai</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/Tejaswi-Kumar">
             <img src="https://avatars.githubusercontent.com/u/67323842?v=4" width="100;" alt="Tejaswi-Kumar"/>
             <br />
             <sub><b>Tejaswi Kumar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/anjali1102">
             <img src="https://avatars.githubusercontent.com/u/56559378?v=4" width="100;" alt="anjali1102"/>
@@ -511,14 +504,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/codeswithroh">
-            <img src="https://avatars.githubusercontent.com/u/77570394?v=4" width="100;" alt="codeswithroh"/>
-            <br />
-            <sub><b>Rohit Purkait</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/devtayade">
             <img src="https://avatars.githubusercontent.com/u/84332795?v=4" width="100;" alt="devtayade"/>
             <br />
@@ -531,7 +516,8 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Yash Nilesh Brid</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mclmza">
             <img src="https://avatars.githubusercontent.com/u/7353871?v=4" width="100;" alt="mclmza"/>
@@ -559,8 +545,7 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Prathamesh Nayak</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/smit-sms">
             <img src="https://avatars.githubusercontent.com/u/52400400?v=4" width="100;" alt="smit-sms"/>
@@ -574,7 +559,8 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Sameer Sahu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/shatanikmahanty">
             <img src="https://avatars.githubusercontent.com/u/67138059?v=4" width="100;" alt="shatanikmahanty"/>
