@@ -182,6 +182,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SiddheshKukade">
+            <img src="https://avatars.githubusercontent.com/u/65951872?v=4" width="100;" alt="SiddheshKukade"/>
+            <br />
+            <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Sourodip20kar">
             <img src="https://avatars.githubusercontent.com/u/104223444?v=4" width="100;" alt="Sourodip20kar"/>
             <br />
@@ -208,15 +215,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Kunal Patil</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Mysterious-Owl">
             <img src="https://avatars.githubusercontent.com/u/66870959?v=4" width="100;" alt="Mysterious-Owl"/>
             <br />
             <sub><b>Mysterious-Owl</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/PritamP20">
             <img src="https://avatars.githubusercontent.com/u/102867939?v=4" width="100;" alt="PritamP20"/>
@@ -236,13 +243,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/41548444?v=4" width="100;" alt="yunghog"/>
             <br />
             <sub><b>YUNGH OG</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SiddheshKukade">
-            <img src="https://avatars.githubusercontent.com/u/65951872?v=4" width="100;" alt="SiddheshKukade"/>
-            <br />
-            <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
         </a>
     </td>
     <td align="center">
