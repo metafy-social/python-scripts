@@ -375,20 +375,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/theadeyemiolayinka">
+            <img src="https://avatars.githubusercontent.com/u/64863320?v=4" width="100;" alt="theadeyemiolayinka"/>
+            <br />
+            <sub><b>Olayinka Adeyemi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/parinzee">
             <img src="https://avatars.githubusercontent.com/u/30139280?v=4" width="100;" alt="parinzee"/>
             <br />
             <sub><b>Parinthapat P.</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/iamrahul8">
             <img src="https://avatars.githubusercontent.com/u/72541381?v=4" width="100;" alt="iamrahul8"/>
             <br />
             <sub><b>Rahul Kumar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/royninja">
             <img src="https://avatars.githubusercontent.com/u/26019882?v=4" width="100;" alt="royninja"/>
@@ -423,15 +430,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Aswin Shailajan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jrafaaael">
             <img src="https://avatars.githubusercontent.com/u/70046023?v=4" width="100;" alt="jrafaaael"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/noobyysauraj">
             <img src="https://avatars.githubusercontent.com/u/81681419?v=4" width="100;" alt="noobyysauraj"/>
@@ -466,15 +473,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Arijit Ghosh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Danuragtiwari">
             <img src="https://avatars.githubusercontent.com/u/86867000?v=4" width="100;" alt="Danuragtiwari"/>
             <br />
             <sub><b>ANURAG TIWARI</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/donheshanthaka">
             <img src="https://avatars.githubusercontent.com/u/61963664?v=4" width="100;" alt="donheshanthaka"/>
@@ -508,13 +515,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/46849277?v=4" width="100;" alt="LEO1612D"/>
             <br />
             <sub><b>Nikunj R. Prajapati</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/theadeyemiolayinka">
-            <img src="https://avatars.githubusercontent.com/u/64863320?v=4" width="100;" alt="theadeyemiolayinka"/>
-            <br />
-            <sub><b>Olayinka Adeyemi</b></sub>
         </a>
     </td></tr>
 <tr>
