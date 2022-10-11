@@ -1,5 +1,5 @@
 # Wifi Passwords
-This is a simple script that fetch all the saved passwords.
+This is a simple script that fetches all the saved passwords.
 
 ## Improvements
 Generating a QR code to easily connect mobile devices.
