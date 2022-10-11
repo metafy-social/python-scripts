@@ -160,20 +160,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Kunalp02">
+            <img src="https://avatars.githubusercontent.com/u/95534553?v=4" width="100;" alt="Kunalp02"/>
+            <br />
+            <sub><b>Kunal Patil</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Montekkundan">
             <img src="https://avatars.githubusercontent.com/u/87750128?v=4" width="100;" alt="Montekkundan"/>
             <br />
             <sub><b>Montek</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Mr-DJ">
             <img src="https://avatars.githubusercontent.com/u/28898632?v=4" width="100;" alt="Mr-DJ"/>
             <br />
             <sub><b>Samuel Jonathan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/shreyan-naskar">
             <img src="https://avatars.githubusercontent.com/u/93477634?v=4" width="100;" alt="shreyan-naskar"/>
@@ -208,15 +215,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rahulkarda">
             <img src="https://avatars.githubusercontent.com/u/76204863?v=4" width="100;" alt="rahulkarda"/>
             <br />
             <sub><b>Rahul Karda</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/kriptonian1">
             <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
@@ -251,20 +258,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dishant10">
             <img src="https://avatars.githubusercontent.com/u/84343829?v=4" width="100;" alt="Dishant10"/>
             <br />
             <sub><b>Dishant Nagpal</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Kunalp02">
-            <img src="https://avatars.githubusercontent.com/u/95534553?v=4" width="100;" alt="Kunalp02"/>
-            <br />
-            <sub><b>Kunal Patil</b></sub>
         </a>
     </td>
     <td align="center">
