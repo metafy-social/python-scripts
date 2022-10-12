@@ -96,6 +96,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SiddheshKukade">
+            <img src="https://avatars.githubusercontent.com/u/65951872?v=4" width="100;" alt="SiddheshKukade"/>
+            <br />
+            <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/vallabhiaf">
             <img src="https://avatars.githubusercontent.com/u/10003129?v=4" width="100;" alt="vallabhiaf"/>
             <br />
@@ -121,13 +128,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/41548444?v=4" width="100;" alt="yunghog"/>
             <br />
             <sub><b>YUNGH OG</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SiddheshKukade">
-            <img src="https://avatars.githubusercontent.com/u/65951872?v=4" width="100;" alt="SiddheshKukade"/>
-            <br />
-            <sub><b>Siddhesh Bhupendra Kuakde</b></sub>
         </a>
     </td></tr>
 <tr>
