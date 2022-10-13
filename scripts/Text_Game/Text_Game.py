@@ -101,7 +101,7 @@ def level2():
     print('You are running far away from the robots')
 
     time.sleep(2)
-    print(""" ──────────────────██
+    print(""" ──────────────────────██
                 ▄───▄▀█▄▄▄▄
                 ─ ▄▀─█▄▄
                 ▄▄▄▀───▀▄
@@ -275,6 +275,15 @@ def level3():
     print('after walking for hours you come across a strange looking object')
     time.sleep(3)
     print('the strange looking object looks like a computer from the past')
+    time.sleep(4)
+    print("""
+▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
+▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░
+▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░
+▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
+░░░░▄▄███▄▄░░░░░█████░
+
+    """)
     time.sleep(3)
     print('there is a video recording on it')
 #     question_one = ''
