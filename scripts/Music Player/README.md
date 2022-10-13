@@ -1,4 +1,6 @@
-This is a music player GUI where two GUI libraries are used:
+# Music Player GUI
+
+This is a GUI framework where two GUI libraries are used:
 
 - Pygame
 - Tkinter
