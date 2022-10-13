@@ -1,11 +1,7 @@
 import random
 import time
 import sys
-# print(""" ──────────────────██
-#             ▄───▄▀█▄▄▄▄
-#             ─ ▄▀─█▄▄
-#             ▄▄▄▀───▀▄
-#             ▀────────▀▀ """)
+
 
 def start():
     # story generated
@@ -188,59 +184,151 @@ def level2():
     ´´´´´¶¶¶¶¶¶¶¶¶¶¶¶´
     ´´´´´´´¶¶¶¶¶¶¶¶
     """)
+#     question_one = ''
+    # while question_one != 'run away' and question_one != 'shoot robot in head':
+    items = ''
+    while items != 'tank' and items != 'bomb' and items != 'mech suit':
+        items = input("which item do you choose - the mech suit, tank or bomb : ")
 
-    items = input("which item do you choose - the mech suit, tank or bomb : ")
-
-    if (items == 'tank'):
-        time.sleep(3)
-        print('oh no the cyborg has ripped through the tank')
-        time.sleep(3)
-        print('you are running away to find safety')
-        time.sleep(3)
-        print('but the cyborg has seen you and captured you')
-
-    elif (items == 'bomb'):
-        time.sleep(3)
-        print('you throw the bomb and it exlodes')
-        time.sleep(3)
-        print('but it doesnt even lay a scratch on him')
-        time.sleep(3)
-        print('because he is made from vibranium')
-        time.sleep(3)
-        print('you are instantly captured now')
-
-    elif (items == "mech suit"):
-        time.sleep(3)
-        print('you are now in the mech suit')
-        time.sleep(3)
-        print('the cyborg is running towards you')
-        time.sleep(3)
-        print('this suit is highly advanced and gives you a ton of diffrent options')
-
-        time.sleep(3)
-        select_option = input("what would you like to use: rocket fist, missile, body slam: ")
-
-        if (select_option == "rocket fist"):
+        if (items == 'tank'):
             time.sleep(3)
-            print('good the cyborg is extremely disorientated')
+            print('oh no the cyborg has ripped through the tank')
             time.sleep(3)
-            combat_moves = input("do you want to throw a right hook or head butt: ")
-            if (combat_moves == 'right hook'):
+            print('you are running away to find safety')
+            time.sleep(3)
+            print('but the cyborg has seen you and captured you')
+
+        elif (items == 'bomb'):
+            time.sleep(3)
+            print('you throw the bomb and it exlodes')
+            time.sleep(3)
+            print('but it doesnt even lay a scratch on him')
+            time.sleep(3)
+            print('because he is made from vibranium')
+            time.sleep(3)
+            print('you are instantly captured now')
+
+        elif (items == "mech suit"):
+            time.sleep(3)
+            print('you are now in the mech suit')
+            time.sleep(3)
+            print('the cyborg is running towards you')
+            time.sleep(3)
+            print('this suit is highly advanced and gives you a ton of diffrent options')
+            suit_options()
+#     question_one = ''
+    # while question_one != 'run away' and question_one != 'shoot robot in head':
+def combat_option():
+    combat_moves = ''
+    while combat_moves != 'right hook' and combat_moves != 'head butt':
+        time.sleep(3)
+        combat_moves = input("do you want to throw a right hook or head butt: ")
+        if (combat_moves == 'right hook'):
+            time.sleep(3)
+            print('wow your right hook to the cyborg was so DEVASTATING that it has killed him')
+            level3()
+        elif (combat_moves == 'head butt'):
+            time.sleep(3)
+            print('incredible your head butt has KNOCKED OUT the cyborg')
+            level3()
+
+def suit_options():
+        time.sleep(3)
+        select_option = ''
+        while select_option != 'rocket fist' and select_option != 'missile' and select_option != 'body slam':
+            select_option = input("what would you like to use: rocket fist, missile, body slam: ")
+
+            if (select_option == "rocket fist"):
                 time.sleep(3)
-                print('wow your right hook to the cyborg was so DEVASTATING that it has killed him')
-            elif (combat_moves == 'head butt'):
+                print('good the cyborg is extremely disorientated')
+                combat_option()
+                # def combat_option():
+                #     combat_moves = ''
+                #     while combat_moves != 'right hook' and combat_moves != 'head butt':
+                #         time.sleep(3)
+                #         combat_moves = input("do you want to throw a right hook or head butt: ")
+                #         if (combat_moves == 'right hook'):
+                #             time.sleep(3)
+                #             print('wow your right hook to the cyborg was so DEVASTATING that it has killed him')
+                #             level3()
+                #         elif (combat_moves == 'head butt'):
+                #             time.sleep(3)
+                #             print('incredible your head butt has KNOCKED OUT the cyborg')
+                #             level3()
+
+            elif (select_option == 'missile'):
                 time.sleep(3)
-                print('incredible your head butt has KNOCKED OUT the cyborg')
-        elif (select_option == 'missile'):
+                print('oh no the cyborg is made from vibranium')
+                time.sleep(3)
+                print('the cyborg punches you and takes you back to the robots')
+            elif (select_option == 'body slam'):
+                time.sleep(3)
+                print('the cyborg has been knocked unconsious good job')
+                time.sleep(3)
+                print('u have enough time to run')
+                level3()
+
+def level3():
+    time.sleep(3)
+    print('after that battle you are completely drained and are trying to find safety')
+    time.sleep(3)
+    print('after walking for hours you come across a strange looking object')
+    time.sleep(3)
+    print('the strange looking object looks like a computer from the past')
+    time.sleep(3)
+    print('there is a video recording on it')
+#     question_one = ''
+    # while question_one != 'run away' and question_one != 'shoot robot in head':
+    message = ''
+    while message != 'yes' and message != 'no':
+        message = input('Do you want to play the recording: ')
+        if message == 'yes':
+            time.sleep(2)
+            print('...')
+            time.sleep(2)
+            print('..')
+            time.sleep(2)
+            print('.')
             time.sleep(3)
-            print('oh no the cyborg is made from vibranium')
+            print('Computer: We have found a way to end the war')
             time.sleep(3)
-            print('the cyborg punches you and takes you back to the robots')
-        elif (select_option == 'body slam'):
+            print('We have ...')
+            time.sleep(5)
+            print("Computer: We have created an algorithm which can search and terminate all AI organisms")
+            time.sleep(2)
+            print('Computer: OH NO')
             time.sleep(3)
-            print('the cyborg has been knocked unconsious good job')
+            print('Computer: the machines have invaded our base')
             time.sleep(3)
-            print('u have enough time to run')
+            print("/@)|¬!}{")
+            algorithm()
+            
+def algorithm():
+            time.sleep(3)
+            initiate = ''
+            while initiate != 'start' and initiate != 'terminate':
+                initiate = input('If you wish to initiate this algorithm please type start or if you wish to terminate the algorithm please type terminate: ')
+                if (initiate == 'start'):
+                    time.sleep(3)
+                    print('....')
+                    time.sleep(3)
+                    print('beep')
+                    time.sleep(3)
+                    print('boop')
+                    time.sleep(3)
+                    print('boop')
+                    time.sleep(3)
+                    print('beep')
+                    time.sleep(3)
+                    print('Congratulations you have sucessfully killed all of the robots in this timeline !!!!!!')
+                    
+
+                elif (initiate == 'terminate'):
+                    time.sleep(3)
+                    print('WTF !!!!')
+                    
+
+
 # option to play again at completion of game
 play_again = "yes"
 
