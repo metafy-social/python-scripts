@@ -1,0 +1,4 @@
+- Python 3.6 or higher
+- Anaconda Installation
+
+or can be used by uploading it to the online jupyter notebook version

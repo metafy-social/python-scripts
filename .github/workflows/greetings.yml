@@ -17,9 +17,11 @@ jobs:
           issue-message: |
             Thank you for opening your first issue in our repository, one of our maintainers will get in touch with you soon.
             
+            *PLEASE DON'T FORGET TO ADD YOUR EMAIL USING THE AUTH LINK*
+            
             We at Metafy have some special rewards and swags for the top contributors in general repos and every contributor in web3 repos
             For being eligible for that, please authenticate yourself using this link:
-            https://hacktoberfest.auth.metafy.social 
+            https://metafy.social/signup
             
             Rewards : T-shirts & NFT ( for blockchain contributions )
 
@@ -27,10 +29,12 @@ jobs:
             For further queries you can join our discord for support : https://discord.gg/W6PmEjjQsA
           pr-message: |
             Thank you for opening your first pull request in our repository, one of our maintainers will get in touch with you soon.
-
+            
+            *PLEASE DON'T FORGET TO ADD YOUR EMAIL USING THE AUTH LINK*
+            
             We at Metafy have some special rewards and swags for the top contributors in general repos and every contributor in web3 repos
             For being eligible for that, please authenticate yourself using this link:
-            https://hacktoberfest.auth.metafy.social 
+            https://metafy.social/signup
 
             Rewards : T-shirts & NFT ( for blockchain contributions )
             

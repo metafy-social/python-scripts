@@ -1,0 +1,1 @@
+A plagiarism checker helps in preventing duplicacy in two files. This way authenticity of content is maintained.

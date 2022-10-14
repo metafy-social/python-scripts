@@ -1,12 +1,19 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+WEATHER_API_KEY = os.environ.get("WEATHER_API_KEY")
+
 loc = str(input("Enter Location : "))
 url = "https://weatherapi-com.p.rapidapi.com/current.json"
 
 querystring = {"q":loc}
 
 headers = {
-	"X-RapidAPI-Key": "bdfb49f730mshb9aca5467ecee49p121eeajsn6be212dbf15d",
+	"X-RapidAPI-Key": WEATHER_API_KEY,
 	"X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
 }
 

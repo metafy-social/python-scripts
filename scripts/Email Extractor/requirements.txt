@@ -1,0 +1,6 @@
+pip install requests
+pip install bs4 
+pip install urllib
+pip install email_scraper
+pip install pandas 
+pip install google
