@@ -1,6 +1,11 @@
 import random
 import time
 import sys
+# print(""" ──────────────────██
+#             ▄───▄▀█▄▄▄▄
+#             ─ ▄▀─█▄▄
+#             ▄▄▄▀───▀▄
+#             ▀────────▀▀ """)
 
 def start():
     # story generated
@@ -87,6 +92,7 @@ def random_select(rightpath):
     if rightpath == str(select):
         time.sleep(3)
         print('good you went down the correct path and cheated death!!')  
+        level2()
 
     else:
         time.sleep(3)
@@ -94,9 +100,147 @@ def random_select(rightpath):
         time.sleep(3)
         print('and you have been shot multiple time and are now dead.')
 
+def level2():
+    time.sleep(3)
+    print('You are running far away from the robots')
 
+    time.sleep(2)
+    print(""" ──────────────────██
+                ▄───▄▀█▄▄▄▄
+                ─ ▄▀─█▄▄
+                ▄▄▄▀───▀▄
+                ▀────────▀▀ """)
 
+    time.sleep(3)
+    print('and all of a sudden you see a cyborg in the distance')
+    time.sleep(2)
+    print("""░░░░░░░░░░░░░┌─────┐░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░│░▌░▌░│░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░│░▄▄░░│░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░┌─┬──┴─┬─┬─┴──┬─┐░░░░░░░░░░░░░░░
+░░░░░░░░│░├┐░░░│░│░░░┌┤░│░░░░░░░░░░░░░░░
+░░░░░░░░│░││░░░│░│░░░││░│░░░░░░░░░░░░░░░
+░░░░░░░░│░││░░░├─┤░░░││░│░░░░░░░░░░░░░░░
+░░░░░░░░└─┘├──┬┴─┴┬─┬┘└─┘░░░░░░░░░░░░░░░
+░░░░░░░░░░░│░░│░░░│░│░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░│░░│░░░│░│░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░┌─┘░░│░░░│░└─┐░░░░░░░░░░░░░░░░░
+░░░░░░░░░└────┘░░░└───┘░░░░░░░░░░░░░░░░░""")
+    time.sleep(3)
+    print('he has been sent to capture you and take you back to the robots!!!')
 
+    time.sleep(3)
+    print('three items are infront of you ')
+
+    time.sleep(3)
+    print("a mech suit")
+    time.sleep(2)
+    print("""───────────▄▄▄▄▄▄▄▄▄───────────
+────────▄█████████████▄────────
+█████──█████████████████──█████
+▐████▌─▀███▄───────▄███▀─▐████▌
+─█████▄──▀███▄───▄███▀──▄█████─
+─▐██▀███▄──▀███▄███▀──▄███▀██▌─
+──███▄▀███▄──▀███▀──▄███▀▄███──
+──▐█▄▀█▄▀███─▄─▀─▄─███▀▄█▀▄█▌──
+───███▄▀█▄██─██▄██─██▄█▀▄███───
+────▀███▄▀██─█████─██▀▄███▀────
+───█▄─▀█████─█████─█████▀─▄█───
+───███────────███────────███───
+───███▄────▄█─███─█▄────▄███───
+───█████─▄███─███─███▄─█████───
+───█████─████─███─████─█████───
+───█████─████─███─████─█████───
+───█████─████─███─████─█████───
+───█████─████▄▄▄▄▄████─█████───
+────▀███─█████████████─███▀────
+──────▀█─███─▄▄▄▄▄─███─█▀──────
+─────────▀█▌▐█████▌▐█▀─────────
+────────────███████────────────
+""")
+
+    time.sleep(3)
+    print("tank")
+    time.sleep(2)
+    print("""░░░░░░███████ ]▄▄▄▄▄▄▄▄
+    ▂▄▅█████████▅▄▃▂
+    I███████████████████].
+    ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤...
+    """)
+
+    time.sleep(3)
+    print('bomb')
+
+    time.sleep(2)
+    print("""´´´´´´´´´´´´´´´´´´´´´´´$¶´´´´´¶´´´´´¶¢
+    ´´´´´´´´´´´¶¶¶¶¶¶¶´´´´´´´¶¢´´´¶´´´ø¶
+    ´´´´´´´´´´¶¶´´´´ø¶¶¶´´´´´´oø´´ø´´øo
+    ´´´´´´´´´´¶7´´´´´´´¶¶¶´´´´´´1´´´1´´´´1o
+    ´´´´´´´¶¶¶¶¶¶¶´´´´´´´¶¶¶7´´´´´´´´1o¶¶¶ø
+    ´´´´´´´¶¶¶¶¶¶¶´´´´´´´´´¶¶¶¶¶¶¶¶´´1
+    ´´´´´o¶¶¶¶¶¶¶¶¶ø´´´´´´´´´´´´´´´´´´o$¢
+    ´´´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´´´´´´¢´´1ø´´´1¶¶
+    ´´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶o´´´´´´´1$´´´¶
+    ´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´´´¶´´´´o¶´
+    ´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´´´´´¶¶
+    ´´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´
+    ´´´¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶´
+    ´´´´´¶¶¶¶¶¶¶¶¶¶¶¶´
+    ´´´´´´´¶¶¶¶¶¶¶¶
+    """)
+
+    items = input("which item do you choose - the mech suit, tank or bomb : ")
+
+    if (items == 'tank'):
+        time.sleep(3)
+        print('oh no the cyborg has ripped through the tank')
+        time.sleep(3)
+        print('you are running away to find safety')
+        time.sleep(3)
+        print('but the cyborg has seen you and captured you')
+
+    elif (items == 'bomb'):
+        time.sleep(3)
+        print('you throw the bomb and it exlodes')
+        time.sleep(3)
+        print('but it doesnt even lay a scratch on him')
+        time.sleep(3)
+        print('because he is made from vibranium')
+        time.sleep(3)
+        print('you are instantly captured now')
+
+    elif (items == "mech suit"):
+        time.sleep(3)
+        print('you are now in the mech suit')
+        time.sleep(3)
+        print('the cyborg is running towards you')
+        time.sleep(3)
+        print('this suit is highly advanced and gives you a ton of diffrent options')
+
+        time.sleep(3)
+        select_option = input("what would you like to use: rocket fist, missile, body slam: ")
+
+        if (select_option == "rocket fist"):
+            time.sleep(3)
+            print('good the cyborg is extremely disorientated')
+            time.sleep(3)
+            combat_moves = input("do you want to throw a right hook or head butt: ")
+            if (combat_moves == 'right hook'):
+                time.sleep(3)
+                print('wow your right hook to the cyborg was so DEVASTATING that it has killed him')
+            elif (combat_moves == 'head butt'):
+                time.sleep(3)
+                print('incredible your head butt has KNOCKED OUT the cyborg')
+        elif (select_option == 'missile'):
+            time.sleep(3)
+            print('oh no the cyborg is made from vibranium')
+            time.sleep(3)
+            print('the cyborg punches you and takes you back to the robots')
+        elif (select_option == 'body slam'):
+            time.sleep(3)
+            print('the cyborg has been knocked unconsious good job')
+            time.sleep(3)
+            print('u have enough time to run')
 # option to play again at completion of game
 play_again = "yes"
 
