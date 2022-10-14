@@ -1,4 +1,4 @@
-# Voice_assited_musicplayer
+# Voice_assisted_musicplayer
 This project contains Ai powered voice activated music player system.
 The system supports mp3,wav and mpeg audio files.
 It can also play songs according to yor emotion(files need to be stored in voice_assisted_musicplayer/Songs/[-] **folder name according to your choice**)
