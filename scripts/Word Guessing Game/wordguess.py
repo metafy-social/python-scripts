@@ -12,6 +12,7 @@ def main():
     global length
     global playgame
     word = r.get_random_word()
+    # word = input("Enter custom word: ")
     finalword = word
     length = len(word)
     count = 0
