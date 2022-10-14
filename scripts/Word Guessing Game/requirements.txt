@@ -1,0 +1,2 @@
+Install random-word module with the command:
+pip install random-word pyyaml
