@@ -103,6 +103,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Khushi260">
+            <img src="https://avatars.githubusercontent.com/u/94845508?v=4" width="100;" alt="Khushi260"/>
+            <br />
+            <sub><b>Khushi Jha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/muratonuryildirim">
             <img src="https://avatars.githubusercontent.com/u/77264793?v=4" width="100;" alt="muratonuryildirim"/>
             <br />
@@ -122,20 +129,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Vallabh Chugh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Abbhiishek">
             <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
             <br />
             <sub><b>Abhishek Kushwaha</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Khushi260">
-            <img src="https://avatars.githubusercontent.com/u/94845508?v=4" width="100;" alt="Khushi260"/>
-            <br />
-            <sub><b>Khushi Jha</b></sub>
         </a>
     </td>
     <td align="center">
@@ -723,6 +723,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/67138059?v=4" width="100;" alt="shatanikmahanty"/>
             <br />
             <sub><b>Shatanik Mahanty</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/smeax">
+            <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td></tr>
 </table>
