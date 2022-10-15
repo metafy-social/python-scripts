@@ -103,13 +103,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Khushi260">
-            <img src="https://avatars.githubusercontent.com/u/94845508?v=4" width="100;" alt="Khushi260"/>
-            <br />
-            <sub><b>Khushi Jha</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/muratonuryildirim">
             <img src="https://avatars.githubusercontent.com/u/77264793?v=4" width="100;" alt="muratonuryildirim"/>
             <br />
@@ -129,13 +122,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Vallabh Chugh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Abbhiishek">
             <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="100;" alt="Abbhiishek"/>
             <br />
             <sub><b>Abhishek Kushwaha</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Khushi260">
+            <img src="https://avatars.githubusercontent.com/u/94845508?v=4" width="100;" alt="Khushi260"/>
+            <br />
+            <sub><b>Khushi Jha</b></sub>
         </a>
     </td>
     <td align="center">
@@ -676,27 +676,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mclmza">
-            <img src="https://avatars.githubusercontent.com/u/7353871?v=4" width="100;" alt="mclmza"/>
-            <br />
-            <sub><b>Michele Mazza</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mer747">
             <img src="https://avatars.githubusercontent.com/u/84189502?v=4" width="100;" alt="mer747"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MubeenAhmad571">
             <img src="https://avatars.githubusercontent.com/u/56739319?v=4" width="100;" alt="MubeenAhmad571"/>
             <br />
             <sub><b>Mubeen Ahmad</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/neocollege">
             <img src="https://avatars.githubusercontent.com/u/86466839?v=4" width="100;" alt="neocollege"/>
