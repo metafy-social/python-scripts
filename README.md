@@ -724,13 +724,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Shatanik Mahanty</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/smeax">
-            <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
