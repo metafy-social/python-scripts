@@ -1,0 +1,49 @@
+#!/bin/env python
+"""
+
+use the api token from jira: https://id.atlassian.com/manage-profile/security/api-tokens
+
+# add to ~/.bashrc
+export JIRA_API_TOKEN=""
+export JIRA_USER=""
+export JIRA_URL="https://myjira.atlassian.net/"
+
+# install 
+pip install jira colorama
+
+"""
+from jira import JIRA
+import os
+import subprocess
+import re
+from colorama import Fore, Back, Style
+import argparse
+
+
+token = os.environ.get("JIRA_API_TOKEN") 
+user = os.environ.get("JIRA_USER")
+jira_url = os.environ.get("JIRA_URL")
+
+jira = JIRA(server=jira_url, basic_auth=(user, token))
+
+def main(args):
+    if args.summary:
+        result = jira.issue(args.summary, fields='description')
+        print(f"{result.fields.description or ''}")
+        return 
+    result = jira.search_issues(""" (assignee = currentUser()) and statuscategory IN ("In Progress","New") ORDER BY updated""")
+    for j in result:
+        if args.title:
+            print(f"{j.key} {j.fields.summary}")
+        elif args.link:
+            print(f"{j.key} {j.permalink()}")
+        else:
+            print(f"{j.key} {j.fields.assignee} {Fore.LIGHTWHITE_EX} {j.fields.status} {Fore.CYAN}{j.fields.summary} {Fore.RESET}{j.permalink()} ")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='List jira issues ..  made by zodman')
+    parser.add_argument("-t","--title",help="only show ID and title", action="store_true")
+    parser.add_argument("-l","--link",help="show only links", action="store_true")
+    parser.add_argument("-s","--summary",help="show sumary")
+    args = parser.parse_args()
+    main(args)
