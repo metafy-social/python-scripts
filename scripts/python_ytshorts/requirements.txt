@@ -1,0 +1,16 @@
+API Keys Required
+
+https://api.api-ninjas.com/v1/facts
+
+
+Installation Files
+
+moviepy.editor 
+IPython.display 
+pyttsx3
+wave
+contextlib
+random 
+requests
+spacy
+json
