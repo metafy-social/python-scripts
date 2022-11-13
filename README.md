@@ -3,10 +3,10 @@
 **Do you know anything that can help all to easy our tough life than tell that secret to us and help us to become lazy like Panda**
 
 <p align="center">
-  <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/fork"><img src="https://img.shields.io/github/forks/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/python-scripts/fork"><img src="https://img.shields.io/github/forks/metafy-social/python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/python-scripts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## Hacktoberfest 2022 Update
 
 **See full details and guidelines on**
-  * [Hacktober cheasheat](https://github.com/metafy-social/daily-python-scripts/blob/master/HACKTOBERFEST.md) 
+  * [Hacktober cheasheat](https://github.com/metafy-social/python-scripts/blob/master/HACKTOBERFEST.md) 
   * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
@@ -34,7 +34,7 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 
 ## Here are the steps to Make contribute 👣
 
-- [x] Take a look at [Contributing Guide](https://github.com/metafy-social/daily-python-scripts/blob/master/CONTRIBUTING.md) (Necessary)
+- [x] Take a look at [Contributing Guide](https://github.com/metafy-social/python-scripts/blob/master/CONTRIBUTING.md) (Necessary)
 - [x] Create an issue for making any change to code. when issue will be approve you can make a change.
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
