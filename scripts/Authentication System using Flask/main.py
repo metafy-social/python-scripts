@@ -70,9 +70,9 @@ def login():
                 login_user(user)
                 return redirect(url_for('dashboard'))
             else:
-                flash("Incorrect Password! Please Try again")
+                flash("Incorrect password! Please try again.")
         else:
-            flash("This email is not registered. Try Signing Up!")
+            flash("This email is not registered. Try signing up!")
 
     return render_template('login.html', form=form)
 
