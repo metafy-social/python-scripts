@@ -4,7 +4,7 @@ from PIL import ImageTk, Image
 import calendar
 root = tk.Tk()
 root.geometry('400x300')
-root.title('Calender-Techarge')
+root.title('Calendar-Techarge')
 root.iconbitmap("calender-ico.ico")
 
 
