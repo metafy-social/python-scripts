@@ -38,7 +38,7 @@ def send_mail():
     message['Subject'] = "Your favourite product is now at cheaper price!!😍"
     message['From'] = email_id
     message['to'] = "mobir99513@lutota.com" #Any random email you can give whom you want to send the email
-    message.set_content("Hey check this amazon link : https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB/ref=sr_1_3?crid=3BF9J6OT56GW0&keywords=macbook+m1&qid=1665331351&qu=eyJxc2MiOiIzLjgzIiwicXNhIjoiMi43NiIsInFzcCI6IjEuNTIifQ%3D%3D&sprefix=macbook+m1%2Caps%2C3675&sr=8-3")
+    message.set_content("Hey! Check out this Amazon link : https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB/ref=sr_1_3?crid=3BF9J6OT56GW0&keywords=macbook+m1&qid=1665331351&qu=eyJxc2MiOiIzLjgzIiwicXNhIjoiMi43NiIsInFzcCI6IjEuNTIifQ%3D%3D&sprefix=macbook+m1%2Caps%2C3675&sr=8-3")
 
 
     with smtplib.SMTP_SSL('smtp.gmail.com',465) as smtp:   #465 is the port number
