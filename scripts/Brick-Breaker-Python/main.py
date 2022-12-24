@@ -211,13 +211,13 @@ def main():
             bricks = generate_bricks(3, 10)
             lives = 3
             reset()
-            display_text("You Lost!")
+            display_text("You lost!")
 
         if len(bricks) == 0:
             bricks = generate_bricks(3, 10)
             lives = 3
             reset()
-            display_text("You Won!")
+            display_text("You won!")
 
         draw(win, paddle, ball, bricks, lives)
 
