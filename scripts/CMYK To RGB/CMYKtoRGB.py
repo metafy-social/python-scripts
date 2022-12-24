@@ -8,7 +8,7 @@ def CMYKtoRGB(c, m, y, k) :
     b=round(255.0-((min(1.0, y*(1.0-k)+k))*255.0))
     return (r,g,b)
 
-print("Welcome To CMYK to RGB Convertor || INPUT CMYK codes and rest leave it to the convertor\n")
+print("Welcome to the CMYK to RGB Convertor || Input CMYK codes and rest leave it to the converter\n")
 c=int(input("C Value: "))
 m=int(input("M Value: "))
 y=int(input("Y Value: "))
