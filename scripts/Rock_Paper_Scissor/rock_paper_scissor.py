@@ -4,8 +4,10 @@ import random
 def getPlayer():
     player = "empty"
     player = input("Please Enter You Choice From - Rock | Paper | Scissor = ")
-    while not (player == "Rock" or player == "Paper" or player == "Scissor"):
+    player = player.lower()
+    while not (player == "rock" or player == "paper" or player == "scissor"):
         player = input("Please Enter You Choice From - Rock | Paper | Scissor = ")
+    player = player[0].upper()+player[1:]
     return player
 
 # Function to generate input from the bot
