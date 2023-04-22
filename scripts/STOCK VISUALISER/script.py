@@ -33,7 +33,7 @@ end_date.pack(padx=10,pady=10)
 
 
 # Button Creation
-printButton = tk.Button(frame, text = "Print", command = printInput)
+printButton = tk.Button(frame, text = "visualise", command = printInput)
 printButton.pack()
   
 # Label Creation
