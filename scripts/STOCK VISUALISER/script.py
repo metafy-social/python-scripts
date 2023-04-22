@@ -1,5 +1,4 @@
-# # import required packages
-
+# import required packages
 import yfinance as yf
 import mplfinance as mpf
 import matplotlib.pyplot as plt
@@ -22,12 +21,8 @@ def printInput():
     mpf.plot(a, type='candle', volume=True, title = inputtxt.get(1.0))
   
 # TextBox Creation
-inputtxt = tk.Text(frame,
-                   height = 2,
-                   width = 25
-                    )
+inputtxt = tk.Text(frame, height = 2, width = 25)
 inputtxt.pack()
-
 
 start_date = tkcalendar.DateEntry(frame, text = "Start Date")
 start_date.pack(padx=10,pady=10)
@@ -38,9 +33,7 @@ end_date.pack(padx=10,pady=10)
 
 
 # Button Creation
-printButton = tk.Button(frame,
-                        text = "Print", 
-                        command = printInput)
+printButton = tk.Button(frame, text = "Print", command = printInput)
 printButton.pack()
   
 # Label Creation
