@@ -1,5 +1,5 @@
 ## ToDo CLI program
-####Main Script - 
+#### Main Script - 
 todo.py  
 #### Files to store ToDos -
 1. todo.txt
