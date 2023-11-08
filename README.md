@@ -17,9 +17,9 @@
 
 # How to start
 
-* Well it's quite simple just thought of any Idea that can be automated
-* Equip your weapon, I mean Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
-* Yess That's all you need 😋
+* Well it's quite simple, just think of any idea that can be automated
+* Install Python and required libraries 😂 (**[Refer here](https://automatetheboringstuff.com/)** for some basic guides to enhance Python language)
+* That's all you need 😋
 
 ## Hacktoberfest 2022 Update
 
@@ -30,13 +30,13 @@
 
 <h1 align=center> How to Contribute 🤔 </h1>
 
-You can contribute by adding new scripts, improving current scripts or Documentation. Here are some Instructions before making a Pull Request
+You can contribute by adding new scripts, improving current scripts or documentation. Read the below instructions before making a pull request.
 
-## Here are the steps to Make contribute 👣
+## Contributing 👣
 
 - [x] Take a look at [Contributing Guide](https://github.com/metafy-social/daily-python-scripts/blob/master/CONTRIBUTING.md) (Necessary)
-- [x] Create an issue for making any change to code. when issue will be approve you can make a change.
-- [x] Pull latest change from upstream branch before starting the changing code.
+- [x] Create an issue for making any change to code. when the issue is approved you can make a change.
+- [x] Pull the latest change from the upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
 
