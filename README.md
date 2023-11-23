@@ -1,6 +1,6 @@
 <h1 align=center> Daily Python Scripts </h1>
 
-**Do you know anything that can help all to easy our tough life than tell that secret to us and help us to become lazy like Panda**
+**Do you know anything that can help all to ease our tough life than tell that secret to us and help us to become lazy**
 
 <p align="center">
   <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
@@ -45,6 +45,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
 <!-- readme: contributors -start -->
 <table>
 <tr>
+    <td align="center">
+        <a href="https://github.com/auburnmedia">
+            <img src="https://avatars.githubusercontent.com/u/137234483?v=4" width="100;" alt="auburnmedia"/>
+            <br />
+            <sub><b>AuburnMedia</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/advaita-saha">
             <img src="https://avatars.githubusercontent.com/u/30210770?v=4" width="100;" alt="advaita-saha"/>
