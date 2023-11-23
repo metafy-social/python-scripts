@@ -46,6 +46,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/auburnmedia">
+            <img src="https://avatars.githubusercontent.com/u/137234483?v=4" width="100;" alt="auburnmedia"/>
+            <br />
+            <sub><b>AuburnMedia</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/advaita-saha">
             <img src="https://avatars.githubusercontent.com/u/30210770?v=4" width="100;" alt="advaita-saha"/>
             <br />
