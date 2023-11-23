@@ -1,6 +1,6 @@
 <h1 align=center> Daily Python Scripts </h1>
 
-**Do you know anything that can help all to easy our tough life than tell that secret to us and help us to become lazy like Panda**
+**Do you know anything that can help all to ease our tough life than tell that secret to us and help us to become lazy**
 
 <p align="center">
   <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
