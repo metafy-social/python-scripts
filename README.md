@@ -34,7 +34,7 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 
 ## Here are the steps to Make contribute 👣
 
-- [x] Take a look at [Contributing Guide](https://github.com/metafy-social/daily-python-scripts/blob/master/CONTRIBUTING.md) (Necessary)
+- [x] Take a look at [Contributing Guide](https://github.com/metafy-social/python-scripts/blob/master/CONTRIBUTING.md) (Necessary)
 - [x] Create an issue for making any change to code. when issue will be approve you can make a change.
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
