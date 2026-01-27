@@ -1,0 +1,6 @@
+# No external dependencies required
+# This script uses only Python standard library modules:
+# - subprocess
+# - re
+# - sys
+# - typing
